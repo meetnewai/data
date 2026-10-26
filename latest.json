@@ -4,8 +4,8 @@
  "provider": "meetnewai",
  "description": "AI tools, AI games, MCP servers and agent skills listed on MeetNewAI, each checked on its official site. domain is null when the official site lives under a path.",
  "homepage": "https://meetnewai.com",
- "count": 484,
- "generatedAt": "2026-10-18T02:12:50.107Z",
+ "count": 507,
+ "generatedAt": "2026-10-26T07:50:33.907Z",
  "items": [
   {
    "slug": "perplexity",
@@ -8827,6 +8827,441 @@
    "listingUrl": "https://meetnewai.com/games/paint-with-music",
    "listingUrlZh": "https://meetnewai.com/zh/games/paint-with-music",
    "verified": "2026-10-18"
+  },
+  {
+   "slug": "blueline",
+   "name": "Blueline",
+   "kind": "game",
+   "category": "action-adventure",
+   "categoryName": "Action adventure",
+   "url": "https://playblueline.pages.dev/",
+   "domain": "playblueline.pages.dev",
+   "pricing": "Free",
+   "tags": [
+    "3D",
+    "Sports",
+    "Multiplayer",
+    "AI games"
+   ],
+   "listingUrl": "https://meetnewai.com/games/blueline",
+   "listingUrlZh": "https://meetnewai.com/zh/games/blueline",
+   "verified": "2026-10-21"
+  },
+  {
+   "slug": "3rd-mainland-biker",
+   "name": "3rd Mainland Biker",
+   "kind": "game",
+   "category": "action-adventure",
+   "categoryName": "Action adventure",
+   "url": "https://3rdmainland.start.ng/",
+   "domain": "3rdmainland.start.ng",
+   "pricing": "Free",
+   "tags": [
+    "3D",
+    "Driving",
+    "Single player",
+    "AI games"
+   ],
+   "listingUrl": "https://meetnewai.com/games/3rd-mainland-biker",
+   "listingUrlZh": "https://meetnewai.com/zh/games/3rd-mainland-biker",
+   "verified": "2026-10-21"
+  },
+  {
+   "slug": "last-train-to-the-sea",
+   "name": "Last Train to the Sea",
+   "kind": "game",
+   "category": "playable-demos",
+   "categoryName": "Playable demos",
+   "url": "https://app.usecrayon.ai/play/bda1b910-b840-48cb-bb4c-28d0cde29107",
+   "domain": null,
+   "pricing": "Free",
+   "tags": [
+    "3D",
+    "Driving",
+    "Exploration",
+    "AI games"
+   ],
+   "listingUrl": "https://meetnewai.com/games/last-train-to-the-sea",
+   "listingUrlZh": "https://meetnewai.com/zh/games/last-train-to-the-sea",
+   "verified": "2026-10-21"
+  },
+  {
+   "slug": "rms-titanic-1912",
+   "name": "R.M.S. Titanic 1912",
+   "kind": "game",
+   "category": "action-adventure",
+   "categoryName": "Action adventure",
+   "url": "https://rms-titanic-1912.netlify.app/",
+   "domain": "rms-titanic-1912.netlify.app",
+   "pricing": "Free",
+   "tags": [
+    "3D",
+    "Driving",
+    "Single player",
+    "AI games"
+   ],
+   "listingUrl": "https://meetnewai.com/games/rms-titanic-1912",
+   "listingUrlZh": "https://meetnewai.com/zh/games/rms-titanic-1912",
+   "verified": "2026-10-21"
+  },
+  {
+   "slug": "stadium-elite",
+   "name": "Stadium Elite",
+   "kind": "game",
+   "category": "action-adventure",
+   "categoryName": "Action adventure",
+   "url": "https://stadium-elite.mindblown.ai/",
+   "domain": "stadium-elite.mindblown.ai",
+   "pricing": "Free",
+   "tags": [
+    "3D",
+    "Sports",
+    "Single player",
+    "AI games"
+   ],
+   "listingUrl": "https://meetnewai.com/games/stadium-elite",
+   "listingUrlZh": "https://meetnewai.com/zh/games/stadium-elite",
+   "verified": "2026-10-21"
+  },
+  {
+   "slug": "riposte",
+   "name": "Riposte",
+   "kind": "game",
+   "category": "action-adventure",
+   "categoryName": "Action adventure",
+   "url": "https://www.playriposte.com/",
+   "domain": "playriposte.com",
+   "pricing": "Free",
+   "tags": [
+    "3D",
+    "Shooter",
+    "Multiplayer",
+    "AI games"
+   ],
+   "listingUrl": "https://meetnewai.com/games/riposte",
+   "listingUrlZh": "https://meetnewai.com/zh/games/riposte",
+   "verified": "2026-10-21"
+  },
+  {
+   "slug": "salmon-survival",
+   "name": "Salmon Survival",
+   "kind": "game",
+   "category": "playable-demos",
+   "categoryName": "Playable demos",
+   "url": "https://salmon-survival.vercel.app/",
+   "domain": "salmon-survival.vercel.app",
+   "pricing": "Free",
+   "tags": [
+    "3D",
+    "Simulation",
+    "Exploration",
+    "AI games"
+   ],
+   "listingUrl": "https://meetnewai.com/games/salmon-survival",
+   "listingUrlZh": "https://meetnewai.com/zh/games/salmon-survival",
+   "verified": "2026-10-21"
+  },
+  {
+   "slug": "outerstead",
+   "name": "Outerstead",
+   "kind": "game",
+   "category": "playable-demos",
+   "categoryName": "Playable demos",
+   "url": "https://outerstead.com/",
+   "domain": "outerstead.com",
+   "pricing": "Free",
+   "tags": [
+    "2D",
+    "Simulation",
+    "Single player",
+    "AI games"
+   ],
+   "listingUrl": "https://meetnewai.com/games/outerstead",
+   "listingUrlZh": "https://meetnewai.com/zh/games/outerstead",
+   "verified": "2026-10-21"
+  },
+  {
+   "slug": "outermate",
+   "name": "Outermate",
+   "kind": "game",
+   "category": "playable-demos",
+   "categoryName": "Playable demos",
+   "url": "https://outermate.com/",
+   "domain": "outermate.com",
+   "pricing": "Free",
+   "tags": [
+    "2D",
+    "Simulation",
+    "Single player",
+    "AI games"
+   ],
+   "listingUrl": "https://meetnewai.com/games/outermate",
+   "listingUrlZh": "https://meetnewai.com/zh/games/outermate",
+   "verified": "2026-10-21"
+  },
+  {
+   "slug": "hell-breach",
+   "name": "HELL//BREACH",
+   "kind": "game",
+   "category": "action-adventure",
+   "categoryName": "Action adventure",
+   "url": "https://vibedoom.vercel.app/",
+   "domain": "vibedoom.vercel.app",
+   "pricing": "Free",
+   "tags": [
+    "3D",
+    "Shooter",
+    "Single player",
+    "AI games"
+   ],
+   "listingUrl": "https://meetnewai.com/games/hell-breach",
+   "listingUrlZh": "https://meetnewai.com/zh/games/hell-breach",
+   "verified": "2026-10-21"
+  },
+  {
+   "slug": "playable-worlds",
+   "name": "Playable Worlds",
+   "kind": "game",
+   "category": "ai-native-games",
+   "categoryName": "AI word and guessing games",
+   "url": "https://fal-video-to-game.vercel.app/",
+   "domain": "fal-video-to-game.vercel.app",
+   "pricing": "Free",
+   "tags": [
+    "3D",
+    "Exploration",
+    "AI games"
+   ],
+   "listingUrl": "https://meetnewai.com/games/playable-worlds",
+   "listingUrlZh": "https://meetnewai.com/zh/games/playable-worlds",
+   "verified": "2026-10-21"
+  },
+  {
+   "slug": "wenware",
+   "name": "WenWare",
+   "kind": "game",
+   "category": "ai-native-games",
+   "categoryName": "AI word and guessing games",
+   "url": "https://wen-ware.com/",
+   "domain": "wen-ware.com",
+   "pricing": "Free",
+   "tags": [
+    "3D",
+    "Geography",
+    "Puzzle",
+    "AI games"
+   ],
+   "listingUrl": "https://meetnewai.com/games/wenware",
+   "listingUrlZh": "https://meetnewai.com/zh/games/wenware",
+   "verified": "2026-10-21"
+  },
+  {
+   "slug": "null-range",
+   "name": "Null Range",
+   "kind": "game",
+   "category": "action-adventure",
+   "categoryName": "Action adventure",
+   "url": "https://nullrange.com/",
+   "domain": "nullrange.com",
+   "pricing": "Free",
+   "tags": [
+    "3D",
+    "Shooter",
+    "Multiplayer",
+    "AI games"
+   ],
+   "listingUrl": "https://meetnewai.com/games/null-range",
+   "listingUrlZh": "https://meetnewai.com/zh/games/null-range",
+   "verified": "2026-10-21"
+  },
+  {
+   "slug": "haldane-4",
+   "name": "HALDANE-4",
+   "kind": "game",
+   "category": "interactive-stories",
+   "categoryName": "Interactive stories",
+   "url": "https://haldane4.denisbondare.com/",
+   "domain": "haldane4.denisbondare.com",
+   "pricing": "Free",
+   "tags": [
+    "2D",
+    "Horror",
+    "Stories",
+    "AI games"
+   ],
+   "listingUrl": "https://meetnewai.com/games/haldane-4",
+   "listingUrlZh": "https://meetnewai.com/zh/games/haldane-4",
+   "verified": "2026-10-21"
+  },
+  {
+   "slug": "beetlejump",
+   "name": "BeetleJump",
+   "kind": "game",
+   "category": "action-adventure",
+   "categoryName": "Action adventure",
+   "url": "https://beetlejump.com/",
+   "domain": "beetlejump.com",
+   "pricing": "Free",
+   "tags": [
+    "3D",
+    "Action",
+    "Multiplayer",
+    "AI games"
+   ],
+   "listingUrl": "https://meetnewai.com/games/beetlejump",
+   "listingUrlZh": "https://meetnewai.com/zh/games/beetlejump",
+   "verified": "2026-10-21"
+  },
+  {
+   "slug": "bungr-inc",
+   "name": "BUNGR INC.",
+   "kind": "game",
+   "category": "action-adventure",
+   "categoryName": "Action adventure",
+   "url": "https://bungr.net/",
+   "domain": "bungr.net",
+   "pricing": "Free",
+   "tags": [
+    "3D",
+    "Simulation",
+    "Single player",
+    "AI games"
+   ],
+   "listingUrl": "https://meetnewai.com/games/bungr-inc",
+   "listingUrlZh": "https://meetnewai.com/zh/games/bungr-inc",
+   "verified": "2026-10-21"
+  },
+  {
+   "slug": "vybenomad",
+   "name": "VybeNomad",
+   "kind": "game",
+   "category": "playable-demos",
+   "categoryName": "Playable demos",
+   "url": "https://vaigames.com/vybenomad/",
+   "domain": null,
+   "pricing": "Free",
+   "tags": [
+    "2D",
+    "Simulation",
+    "Single player",
+    "AI games"
+   ],
+   "listingUrl": "https://meetnewai.com/games/vybenomad",
+   "listingUrlZh": "https://meetnewai.com/zh/games/vybenomad",
+   "verified": "2026-10-21"
+  },
+  {
+   "slug": "kestrel-nights",
+   "name": "Kestrel Nights",
+   "kind": "game",
+   "category": "action-adventure",
+   "categoryName": "Action adventure",
+   "url": "https://hasib-kestrel-nights.netlify.app/",
+   "domain": "hasib-kestrel-nights.netlify.app",
+   "pricing": "Free",
+   "tags": [
+    "3D",
+    "Action",
+    "Single player",
+    "AI games"
+   ],
+   "listingUrl": "https://meetnewai.com/games/kestrel-nights",
+   "listingUrlZh": "https://meetnewai.com/zh/games/kestrel-nights",
+   "verified": "2026-10-21"
+  },
+  {
+   "slug": "stardust-isles",
+   "name": "Stardust Isles",
+   "kind": "game",
+   "category": "playable-demos",
+   "categoryName": "Playable demos",
+   "url": "https://game.danzechen.world/",
+   "domain": "game.danzechen.world",
+   "pricing": "Free",
+   "tags": [
+    "3D",
+    "Exploration",
+    "Single player",
+    "AI games"
+   ],
+   "listingUrl": "https://meetnewai.com/games/stardust-isles",
+   "listingUrlZh": "https://meetnewai.com/zh/games/stardust-isles",
+   "verified": "2026-10-21"
+  },
+  {
+   "slug": "flagguessr",
+   "name": "FlagGuessr",
+   "kind": "game",
+   "category": "playable-demos",
+   "categoryName": "Playable demos",
+   "url": "https://www.flag-guessr.com/",
+   "domain": "flag-guessr.com",
+   "pricing": "Free",
+   "tags": [
+    "2D",
+    "Geography",
+    "Single player",
+    "AI games"
+   ],
+   "listingUrl": "https://meetnewai.com/games/flagguessr",
+   "listingUrlZh": "https://meetnewai.com/zh/games/flagguessr",
+   "verified": "2026-10-21"
+  },
+  {
+   "slug": "thrust-run",
+   "name": "Thrust Run",
+   "kind": "game",
+   "category": "action-adventure",
+   "categoryName": "Action adventure",
+   "url": "https://thrustrun.com/",
+   "domain": "thrustrun.com",
+   "pricing": "Free",
+   "tags": [
+    "3D",
+    "Driving",
+    "Multiplayer",
+    "AI games"
+   ],
+   "listingUrl": "https://meetnewai.com/games/thrust-run",
+   "listingUrlZh": "https://meetnewai.com/zh/games/thrust-run",
+   "verified": "2026-10-21"
+  },
+  {
+   "slug": "killer-bufo",
+   "name": "Killer Bufo",
+   "kind": "game",
+   "category": "action-adventure",
+   "categoryName": "Action adventure",
+   "url": "https://killerbufo.com/",
+   "domain": "killerbufo.com",
+   "pricing": "Free",
+   "tags": [
+    "2D",
+    "Party",
+    "Multiplayer",
+    "AI games"
+   ],
+   "listingUrl": "https://meetnewai.com/games/killer-bufo",
+   "listingUrlZh": "https://meetnewai.com/zh/games/killer-bufo",
+   "verified": "2026-10-21"
+  },
+  {
+   "slug": "deepseek-harness",
+   "name": "DeepSeek Harness",
+   "kind": "product",
+   "category": "ai-agents",
+   "categoryName": "AI agents",
+   "url": "https://deepseek-harness.github.io/deepseek-harness/",
+   "domain": null,
+   "pricing": "Open source",
+   "tags": [
+    "Agent",
+    "Coding",
+    "Open source"
+   ],
+   "listingUrl": "https://meetnewai.com/products/deepseek-harness",
+   "listingUrlZh": "https://meetnewai.com/zh/products/deepseek-harness",
+   "verified": "2026-10-21"
   }
  ]
 }
