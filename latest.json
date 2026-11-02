@@ -4,8 +4,8 @@
  "provider": "meetnewai",
  "description": "AI tools, AI games, MCP servers and agent skills listed on MeetNewAI, each checked on its official site. domain is null when the official site lives under a path.",
  "homepage": "https://meetnewai.com",
- "count": 507,
- "generatedAt": "2026-10-26T07:50:33.907Z",
+ "count": 514,
+ "generatedAt": "2026-11-02T09:33:39.333Z",
  "items": [
   {
    "slug": "perplexity",
@@ -9262,6 +9262,139 @@
    "listingUrl": "https://meetnewai.com/products/deepseek-harness",
    "listingUrlZh": "https://meetnewai.com/zh/products/deepseek-harness",
    "verified": "2026-10-21"
+  },
+  {
+   "slug": "pocket-avalanche",
+   "name": "Pocket Avalanche",
+   "kind": "game",
+   "category": "action-adventure",
+   "categoryName": "Action adventure",
+   "url": "https://app.usecrayon.ai/play/002e14bf-1503-4224-a86e-456bcde60e4e",
+   "domain": null,
+   "pricing": "Free",
+   "tags": [
+    "2D",
+    "Action",
+    "Single player",
+    "AI games"
+   ],
+   "listingUrl": "https://meetnewai.com/games/pocket-avalanche",
+   "listingUrlZh": "https://meetnewai.com/zh/games/pocket-avalanche",
+   "verified": "2026-10-26"
+  },
+  {
+   "slug": "cowduction",
+   "name": "Cowduction",
+   "kind": "game",
+   "category": "action-adventure",
+   "categoryName": "Action adventure",
+   "url": "https://cowduction.guibsonv.chatgpt.site",
+   "domain": "cowduction.guibsonv.chatgpt.site",
+   "pricing": "Free",
+   "tags": [
+    "2D",
+    "Action",
+    "Single player",
+    "AI games"
+   ],
+   "listingUrl": "https://meetnewai.com/games/cowduction",
+   "listingUrlZh": "https://meetnewai.com/zh/games/cowduction",
+   "verified": "2026-10-26"
+  },
+  {
+   "slug": "galaxy-glider",
+   "name": "Galaxy Glider",
+   "kind": "game",
+   "category": "action-adventure",
+   "categoryName": "Action adventure",
+   "url": "https://galaxy-glider.galaxy-glider.workers.dev/?v=3",
+   "domain": "galaxy-glider.galaxy-glider.workers.dev",
+   "pricing": "Free",
+   "tags": [
+    "Flight",
+    "Arcade",
+    "Single player",
+    "AI games"
+   ],
+   "listingUrl": "https://meetnewai.com/games/galaxy-glider",
+   "listingUrlZh": "https://meetnewai.com/zh/games/galaxy-glider",
+   "verified": "2026-10-26"
+  },
+  {
+   "slug": "crittertown",
+   "name": "CritterTown",
+   "kind": "game",
+   "category": "playable-demos",
+   "categoryName": "Playable demos",
+   "url": "https://wiktor.vip",
+   "domain": "wiktor.vip",
+   "pricing": "Free",
+   "tags": [
+    "2D",
+    "Simulation",
+    "Characters",
+    "AI games"
+   ],
+   "listingUrl": "https://meetnewai.com/games/crittertown",
+   "listingUrlZh": "https://meetnewai.com/zh/games/crittertown",
+   "verified": "2026-10-26"
+  },
+  {
+   "slug": "driver-lab",
+   "name": "Driver Lab",
+   "kind": "game",
+   "category": "action-adventure",
+   "categoryName": "Action adventure",
+   "url": "https://harryxin.com/game/frc",
+   "domain": null,
+   "pricing": "Free",
+   "tags": [
+    "3D",
+    "Driving",
+    "Simulation",
+    "AI games"
+   ],
+   "listingUrl": "https://meetnewai.com/games/driver-lab",
+   "listingUrlZh": "https://meetnewai.com/zh/games/driver-lab",
+   "verified": "2026-10-26"
+  },
+  {
+   "slug": "rocket-yard",
+   "name": "Rocket Yard",
+   "kind": "game",
+   "category": "playable-demos",
+   "categoryName": "Playable demos",
+   "url": "https://bobler512.itch.io/rocket-yard",
+   "domain": null,
+   "pricing": "Free",
+   "tags": [
+    "Flight",
+    "Simulation",
+    "Single player",
+    "AI games"
+   ],
+   "listingUrl": "https://meetnewai.com/games/rocket-yard",
+   "listingUrlZh": "https://meetnewai.com/zh/games/rocket-yard",
+   "verified": "2026-10-26"
+  },
+  {
+   "slug": "nines",
+   "name": "Nines",
+   "kind": "game",
+   "category": "action-adventure",
+   "categoryName": "Action adventure",
+   "url": "https://nonines.dev/play",
+   "domain": null,
+   "pricing": "Free",
+   "tags": [
+    "3D",
+    "Racing",
+    "Arcade",
+    "AI games"
+   ],
+   "listingUrl": "https://meetnewai.com/games/nines",
+   "listingUrlZh": "https://meetnewai.com/zh/games/nines",
+   "verified": "2026-10-26"
   }
  ]
 }
