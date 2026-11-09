@@ -5,7 +5,7 @@
  "description": "AI tools, AI games, MCP servers and agent skills listed on MeetNewAI, each checked on its official site. domain is null when the official site lives under a path.",
  "homepage": "https://meetnewai.com",
  "count": 514,
- "generatedAt": "2026-11-02T09:33:39.333Z",
+ "generatedAt": "2026-11-09T09:51:20.057Z",
  "items": [
   {
    "slug": "perplexity",
@@ -15,7 +15,7 @@
    "categoryName": "AI research tools",
    "url": "https://perplexity.ai",
    "domain": "perplexity.ai",
-   "pricing": "Price not checked yet",
+   "pricing": "Pricing on the official site",
    "tags": [
     "Research",
     "Search",
@@ -53,7 +53,7 @@
    "categoryName": "AI presentations",
    "url": "https://gamma.app",
    "domain": "gamma.app",
-   "pricing": "Price not checked yet",
+   "pricing": "Pricing on the official site",
    "tags": [
     "Presentations",
     "Web pages",
@@ -71,7 +71,7 @@
    "categoryName": "AI study tools",
    "url": "https://notebook.google",
    "domain": "notebook.google",
-   "pricing": "Price not checked yet",
+   "pricing": "Pricing on the official site",
    "tags": [
     "Research",
     "Study",
