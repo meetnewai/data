@@ -4,8 +4,8 @@
  "provider": "meetnewai",
  "description": "AI tools, AI games, MCP servers and agent skills listed on MeetNewAI, each checked on its official site. domain is null when the official site lives under a path.",
  "homepage": "https://meetnewai.com",
- "count": 514,
- "generatedAt": "2026-11-09T09:51:20.057Z",
+ "count": 521,
+ "generatedAt": "2026-11-16T09:49:00.236Z",
  "items": [
   {
    "slug": "perplexity",
@@ -15,7 +15,7 @@
    "categoryName": "AI research tools",
    "url": "https://perplexity.ai",
    "domain": "perplexity.ai",
-   "pricing": "Pricing on the official site",
+   "pricing": "Free plan available",
    "tags": [
     "Research",
     "Search",
@@ -24,7 +24,7 @@
    ],
    "listingUrl": "https://meetnewai.com/products/perplexity",
    "listingUrlZh": "https://meetnewai.com/zh/products/perplexity",
-   "verified": "2026-10-16"
+   "verified": "2026-11-15"
   },
   {
    "slug": "cursor",
@@ -43,7 +43,7 @@
    ],
    "listingUrl": "https://meetnewai.com/products/cursor",
    "listingUrlZh": "https://meetnewai.com/zh/products/cursor",
-   "verified": "2026-10-16"
+   "verified": "2026-11-16"
   },
   {
    "slug": "gamma",
@@ -53,7 +53,7 @@
    "categoryName": "AI presentations",
    "url": "https://gamma.app",
    "domain": "gamma.app",
-   "pricing": "Pricing on the official site",
+   "pricing": "Free plan available",
    "tags": [
     "Presentations",
     "Web pages",
@@ -61,7 +61,7 @@
    ],
    "listingUrl": "https://meetnewai.com/products/gamma",
    "listingUrlZh": "https://meetnewai.com/zh/products/gamma",
-   "verified": "2026-10-16"
+   "verified": "2026-11-14"
   },
   {
    "slug": "notebooklm",
@@ -71,7 +71,7 @@
    "categoryName": "AI study tools",
    "url": "https://notebook.google",
    "domain": "notebook.google",
-   "pricing": "Pricing on the official site",
+   "pricing": "Free plan available",
    "tags": [
     "Research",
     "Study",
@@ -79,7 +79,7 @@
    ],
    "listingUrl": "https://meetnewai.com/products/notebooklm",
    "listingUrlZh": "https://meetnewai.com/zh/products/notebooklm",
-   "verified": "2026-10-16"
+   "verified": "2026-11-11"
   },
   {
    "slug": "little-prince",
@@ -9395,6 +9395,139 @@
    "listingUrl": "https://meetnewai.com/games/nines",
    "listingUrlZh": "https://meetnewai.com/zh/games/nines",
    "verified": "2026-10-26"
+  },
+  {
+   "slug": "which-face-is-real",
+   "name": "Which Face Is Real?",
+   "kind": "game",
+   "category": "ai-native-games",
+   "categoryName": "AI word and guessing games",
+   "url": "https://www.whichfaceisreal.com/",
+   "domain": "whichfaceisreal.com",
+   "pricing": "See the official price",
+   "tags": [
+    "Puzzle",
+    "Single player",
+    "Browser",
+    "AI games"
+   ],
+   "listingUrl": "https://meetnewai.com/games/which-face-is-real",
+   "listingUrlZh": "https://meetnewai.com/zh/games/which-face-is-real",
+   "verified": "2026-11-11"
+  },
+  {
+   "slug": "freddie-meter",
+   "name": "Freddie Meter",
+   "kind": "game",
+   "category": "ai-native-games",
+   "categoryName": "AI word and guessing games",
+   "url": "https://freddiemeter.withyoutube.com/",
+   "domain": "freddiemeter.withyoutube.com",
+   "pricing": "See the official price",
+   "tags": [
+    "Voice",
+    "Music generation",
+    "Single player",
+    "AI games"
+   ],
+   "listingUrl": "https://meetnewai.com/games/freddie-meter",
+   "listingUrlZh": "https://meetnewai.com/zh/games/freddie-meter",
+   "verified": "2026-11-11"
+  },
+  {
+   "slug": "beat-blender",
+   "name": "Beat Blender",
+   "kind": "game",
+   "category": "ai-native-games",
+   "categoryName": "AI word and guessing games",
+   "url": "https://experiments.withgoogle.com/ai/beat-blender/view/",
+   "domain": null,
+   "pricing": "See the official price",
+   "tags": [
+    "Music generation",
+    "2D",
+    "Single player",
+    "AI games"
+   ],
+   "listingUrl": "https://meetnewai.com/games/beat-blender",
+   "listingUrlZh": "https://meetnewai.com/zh/games/beat-blender",
+   "verified": "2026-11-11"
+  },
+  {
+   "slug": "infinite-drum-machine",
+   "name": "The Infinite Drum Machine",
+   "kind": "game",
+   "category": "ai-native-games",
+   "categoryName": "AI word and guessing games",
+   "url": "https://experiments.withgoogle.com/ai/drum-machine/view/",
+   "domain": null,
+   "pricing": "See the official price",
+   "tags": [
+    "Music generation",
+    "Exploration",
+    "Single player",
+    "AI games"
+   ],
+   "listingUrl": "https://meetnewai.com/games/infinite-drum-machine",
+   "listingUrlZh": "https://meetnewai.com/zh/games/infinite-drum-machine",
+   "verified": "2026-11-11"
+  },
+  {
+   "slug": "melody-mixer",
+   "name": "Melody Mixer",
+   "kind": "game",
+   "category": "ai-native-games",
+   "categoryName": "AI word and guessing games",
+   "url": "https://experiments.withgoogle.com/ai/melody-mixer/view/",
+   "domain": null,
+   "pricing": "See the official price",
+   "tags": [
+    "Music generation",
+    "2D",
+    "Single player",
+    "AI games"
+   ],
+   "listingUrl": "https://meetnewai.com/games/melody-mixer",
+   "listingUrlZh": "https://meetnewai.com/zh/games/melody-mixer",
+   "verified": "2026-11-11"
+  },
+  {
+   "slug": "nsynth-sound-maker",
+   "name": "NSynth: Sound Maker",
+   "kind": "game",
+   "category": "ai-native-games",
+   "categoryName": "AI word and guessing games",
+   "url": "https://experiments.withgoogle.com/ai/sound-maker/view/",
+   "domain": null,
+   "pricing": "See the official price",
+   "tags": [
+    "Music generation",
+    "Exploration",
+    "Single player",
+    "AI games"
+   ],
+   "listingUrl": "https://meetnewai.com/games/nsynth-sound-maker",
+   "listingUrlZh": "https://meetnewai.com/zh/games/nsynth-sound-maker",
+   "verified": "2026-11-11"
+  },
+  {
+   "slug": "scroobly",
+   "name": "Scroobly",
+   "kind": "game",
+   "category": "playable-demos",
+   "categoryName": "Playable demos",
+   "url": "https://www.scroobly.com/",
+   "domain": "scroobly.com",
+   "pricing": "See the official price",
+   "tags": [
+    "2D",
+    "Single player",
+    "Browser",
+    "AI games"
+   ],
+   "listingUrl": "https://meetnewai.com/games/scroobly",
+   "listingUrlZh": "https://meetnewai.com/zh/games/scroobly",
+   "verified": "2026-11-11"
   }
  ]
 }
